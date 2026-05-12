@@ -38,15 +38,15 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
 # 📝 Publications 
 
 ## 🗞️ Conference
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="100%">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MbiCom 2026</div><img src='images/OrbWeaver.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception](https://xwkate.github.io/Papers/Ubicomp25-SpikeTouch-public.pdf)
+[OrbWeaver : A Geometric Optics-Based RIS for Omnidirectional 3D Beam Steering]
 
-Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zheng Wang
+Xuan Wang, Liyao Li, Runchuan Liu, Jiameng Bai, Kun Woo Cho, Chao Feng, Yuhui Ren, Xiaojiang Chen, Yaxiong Xie
 
-**ACM Ubicomp 2025 (CCF A)**
+**ACM MobiCom 2026 (CCF A)**
 </div>
 </div>
 
