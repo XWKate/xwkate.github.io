@@ -32,8 +32,8 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
 
 
 # 🔥 News
-- *2025.09*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **SpikeTouch** is accepted by **ACM Ubicomp 2025**.
-
+- *2026.02*: <span style="color:red;">  <b>New!</b> </span>🎉🎉 Our work **OrbWeaver** is accepted by **ACM MobiCom'26**.
+  
 
 # 📝 Publications 
 
@@ -50,6 +50,17 @@ Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2025</div><img src='images/SpikeTouch.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpikeTouch: Optimizing Spike Neural Networks for Tactile Perception](https://xwkate.github.io/Papers/Ubicomp25-SpikeTouch-public.pdf)
+
+Xuerong Zhao, **Xuan Wang (Co-first author)**, Jian Wu, Chao Feng, Dingyi Fang, Xiaojiang Chen, Zheng Wang
+
+**ACM Ubicomp 2025 (CCF A)**
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2023</div><img src='images/ubi23.png' alt="sym" width="100%">
 </div></div>
