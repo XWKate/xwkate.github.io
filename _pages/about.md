@@ -42,9 +42,9 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[OrbWeaver : A Geometric Optics-Based RIS for Omnidirectional 3D Beam Steering]
+[OrbWeaver : A Geometric Optics-Based RIS for Omnidirectional 3D Beam Steering](https://xwkate.github.io/Papers/mobicom26-final258.pdf)
 
-**Xuan Wang**, Liyao Li, Runchuan Liu, Jiameng Bai, Kun Woo Cho, Chao Feng, Yuhui Ren, Xiaojiang Chen, Yaxiong Xie
+**Xuan Wang**, Liyao Li, Runchuan Liu, Jiameng Bai, Chao Feng, Yuhui Ren, Xiaojiang Chen, Yaxiong Xie
 
 **ACM MobiCom 2026 (CCF A)**
 </div>
