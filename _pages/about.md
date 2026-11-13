@@ -47,7 +47,7 @@ I received my PhD degree in 2023.12 from Northwest University, under the supervi
 **Xuan Wang**, Liyao Li, Runchuan Liu, Jiameng Bai, Chao Feng, Yuhui Ren, Xiaojiang Chen, Yaxiong Xie
 
 **ACM MobiCom 2026 (CCF A)**
-[Slides](https://xwkate.github.io/Papers/orbWeaver_slides.pdf)
+[Slides](https://xwkate.github.io/Papers/orbweaver_slides.pdf)
 </div>
 </div>
 
